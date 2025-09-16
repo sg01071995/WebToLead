@@ -1,0 +1,3 @@
+recapcha keys
+site key - 6LfNlssrAAAAANbXgreLFFWZgkcsZOBJEuAaVQhD
+secret key - 6LfNlssrAAAAAH95-S4MT1izlU911v5iwLN318bU
